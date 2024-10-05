@@ -38,6 +38,11 @@ st.write('''<br><br><br><center><font color = "#0000ff" size = 7>Daftar Artikel 
 
 
 
+
+
+
+
+
 st.write('''<style>
          a:hover {
          background-color: yellow;
