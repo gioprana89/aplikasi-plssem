@@ -38,11 +38,6 @@ st.write('''<br><br><br><center><font color = "#0000ff" size = 7>Daftar Artikel 
 
 
 
-
-
-
-
-
 st.write('''<style>
          a:hover {
          background-color: yellow;
@@ -56,10 +51,12 @@ st.write('''<style>
 
 pilih_topik = st.radio(
     "Pilih Bidang: ",
-    [":rainbow[Accounting, Finance, Econometrics, Business (Financial Data)]", ":rainbow[Psychology]", ":rainbow[Agriculture]", ":rainbow[Health]",      ])
+    [":rainbow[Accounting, Finance, Econometrics, Business (Financial Data)]",":rainbow[Business, Management, Education, Sociology and Political Science]" , ":rainbow[Psychology]", ":rainbow[Agriculture]", ":rainbow[Health]",      ])
 
 
 if pilih_topik == ":rainbow[Accounting, Finance, Econometrics, Business (Financial Data)]":
+    st.write('''<br><br><br><center><font color = "red" size = 7>2020</font></center> ''', unsafe_allow_html = True)
+
     st.write('''[1] <font color = "#0000ff">Judul: Disclosure of corporate social responsibility (CSR) and its implications on company value as a result of the impact of corporate governance and profitability</font><br><font color = "#ff00ff">Jurnal: International Journal of Law and Management</font><br><font color = "#f4c430">Tahun Terbit Artikel: 2020</font><br><font color = "#32cd32">Publisher: Emerald</font><br><a href = "https://www.emerald.com/insight/content/doi/10.1108/IJLMA-08-2017-0197/full/html" target = "_blank" style = "text-decoration:none">Link Artikel</a>
 
 
@@ -126,7 +123,108 @@ if pilih_topik == ":rainbow[Accounting, Finance, Econometrics, Business (Financi
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+if pilih_topik == ":rainbow[Business, Management, Education, Sociology and Political Science]":
+
+    st.write('''<br><br><br><center><font color = "red" size = 7>2020</font></center> ''', unsafe_allow_html = True)
+
+    st.write('''[1] <font color = "#0000ff">Judul: Business and project strategy alignment: ICT project success in Iran</font><br><font color = "#ff00ff">Jurnal: Technology in Society</font><br><font color = "#f4c430">Tahun Terbit Artikel: 2020</font><br><font color = "#32cd32">Publisher: Elsevier</font><br><a href = "https://www.sciencedirect.com/science/article/pii/S0160791X19307298?via%3Dihub" target = "_blank" style = "text-decoration:none">Link Artikel</a>
+
+
+
+             ''', unsafe_allow_html = True)
+    
+
+    st.markdown(
+    """<a href="https://www.sciencedirect.com/science/article/pii/S0160791X19307298?via%3Dihub">
+    <img src="https://statkomat.com/aplikasi-plssem/Business, Management, Education, Sociology and Political Science/1/1.png" width="600"><br>
+    <img src="https://statkomat.com/aplikasi-plssem/Business, Management, Education, Sociology and Political Science/1/2.png" width="600"><br>
+    </a>""",
+    unsafe_allow_html=True)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 if pilih_topik == ":rainbow[Psychology]":
+
+    st.write('''<br><br><br><center><font color = "red" size = 7>2024</font></center> ''', unsafe_allow_html = True)
+
     st.write('''[1] <font color = "#0000ff">Judul: The mediating role of employee commitment in the relationship between compensation system and turnover intentions</font><br><font color = "#ff00ff">Jurnal: Employee Relations</font><br><font color = "#f4c430">Tahun Terbit Artikel: 2024</font><br><font color = "#32cd32">Publisher: Emerald</font><br><a href = "https://www.emerald.com/insight/content/doi/10.1108/ER-05-2023-0270/full/html" target = "_blank" style = "text-decoration:none">Link Artikel</a>
 
 
