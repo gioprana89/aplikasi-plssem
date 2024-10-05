@@ -16,6 +16,9 @@ import plotly.express as px
 
 
 
+
+
+
 st.write('''<br><br><br><center><font color = "#0000ff" size = 7>Daftar Artikel Mengenai Aplikasi Metode Partial Least Squares Structural Equation Modeling (PLS-SEM) di Berbagai Bidang Disiplin Ilmu</font></center>
 
 
@@ -67,6 +70,11 @@ if pilih_topik == ":rainbow[Accounting, Finance, Econometrics, Business (Financi
     <img src="https://statkomat.com/aplikasi-plssem/Accounting, Finance, Econometrics, Business (Financial Data)/1/1.png" width="1000">
     </a>""",
     unsafe_allow_html=True)
+
+
+
+
+
 
 
 
