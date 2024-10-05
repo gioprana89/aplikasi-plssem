@@ -129,6 +129,13 @@ if pilih_topik == ":rainbow[Accounting, Finance, Econometrics, Business (Financi
 
 
 
+
+
+
+
+
+
+
 if pilih_topik == ":rainbow[Psychology]":
     st.write('''[1] <font color = "#0000ff">Judul: The mediating role of employee commitment in the relationship between compensation system and turnover intentions</font><br><font color = "#ff00ff">Jurnal: Employee Relations</font><br><font color = "#f4c430">Tahun Terbit Artikel: 2024</font><br><font color = "#32cd32">Publisher: Emerald</font><br><a href = "https://www.emerald.com/insight/content/doi/10.1108/ER-05-2023-0270/full/html" target = "_blank" style = "text-decoration:none">Link Artikel</a>
 
