@@ -16,34 +16,6 @@ import plotly.express as px
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 st.write('''<br><br><br><center><font color = "#0000ff" size = 7>Daftar Artikel Mengenai Aplikasi Metode Partial Least Squares Structural Equation Modeling (PLS-SEM) di Berbagai Bidang Disiplin Ilmu</font></center>
 
 
@@ -251,8 +223,55 @@ if pilih_topik == ":rainbow[Business, Management, Education, Sociology and Polit
 
 if pilih_topik == ":rainbow[Psychology]":
 
-    st.write('''<br><br><br><center><font color = "red" size = 7>2024</font></center> ''', unsafe_allow_html = True)
 
+
+    st.write('''<br><br><br><center><font color = "red" size = 7>2020</font></center> ''', unsafe_allow_html = True)
+    st.write('''[1] <font color = "#0000ff">Judul: The effect of self-esteem, attitude towards the body, and eating habit on cognitive reactivity</font><br><font color = "#ff00ff">Jurnal: Psikohumaniora: Jurnal Penelitian Psikologi</font><br><font color = "#f4c430">Tahun Terbit Artikel: 2020</font><br><font color = "#32cd32">Publisher: </font><br><a href = "https://journal.walisongo.ac.id/index.php/Psikohumaniora/search/search" target = "_blank" style = "text-decoration:none">Link Artikel</a>
+
+
+
+             ''', unsafe_allow_html = True)
+    
+
+    st.markdown(
+    """<a href="https://journal.walisongo.ac.id/index.php/Psikohumaniora/search/search">
+    <img src="https://statkomat.com/aplikasi-plssem/Psychology/3/1.png" width="800"><br>
+    </a>""",
+    unsafe_allow_html=True)
+
+
+
+
+
+
+
+
+
+
+
+
+    st.write('''<br><br><br><center><font color = "red" size = 7>2021</font></center> ''', unsafe_allow_html = True)
+    st.write('''[1] <font color = "#0000ff">Judul: The influence of socioeconomic status on job and life satisfaction among low-income employees in Johor Local Authorities</font><br><font color = "#ff00ff">Jurnal: Psikohumaniora: Jurnal Penelitian Psikologi</font><br><font color = "#f4c430">Tahun Terbit Artikel: 2021</font><br><font color = "#32cd32">Publisher: </font><br><a href = "https://journal.walisongo.ac.id/index.php/Psikohumaniora/article/view/8304" target = "_blank" style = "text-decoration:none">Link Artikel</a>
+
+
+
+             ''', unsafe_allow_html = True)
+    
+
+    st.markdown(
+    """<a href="https://journal.walisongo.ac.id/index.php/Psikohumaniora/article/view/8304">
+    <img src="https://statkomat.com/aplikasi-plssem/Psychology/2/1.png" width="500"><br>
+    <img src="https://statkomat.com/aplikasi-plssem/Psychology/2/2.png" width="800">
+    </a>""",
+    unsafe_allow_html=True)
+
+
+
+
+
+
+
+    st.write('''<br><br><br><center><font color = "red" size = 7>2024</font></center> ''', unsafe_allow_html = True)
     st.write('''[1] <font color = "#0000ff">Judul: The mediating role of employee commitment in the relationship between compensation system and turnover intentions</font><br><font color = "#ff00ff">Jurnal: Employee Relations</font><br><font color = "#f4c430">Tahun Terbit Artikel: 2024</font><br><font color = "#32cd32">Publisher: Emerald</font><br><a href = "https://www.emerald.com/insight/content/doi/10.1108/ER-05-2023-0270/full/html" target = "_blank" style = "text-decoration:none">Link Artikel</a>
 
 
@@ -265,6 +284,8 @@ if pilih_topik == ":rainbow[Psychology]":
     <img src="https://statkomat.com/aplikasi-plssem/Psychology/1/1.png" width="1000">
     </a>""",
     unsafe_allow_html=True)
+
+
 
 
 
