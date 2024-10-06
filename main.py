@@ -16,6 +16,11 @@ import plotly.express as px
 
 
 
+
+
+
+
+
 st.write('''<br><br><br><center><font color = "#0000ff" size = 7>Daftar Artikel Mengenai Aplikasi Metode Partial Least Squares Structural Equation Modeling (PLS-SEM) di Berbagai Bidang Disiplin Ilmu</font></center>
 
 
