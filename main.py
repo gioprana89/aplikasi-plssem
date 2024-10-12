@@ -16,11 +16,6 @@ import plotly.express as px
 
 
 
-
-
-
-
-
 st.write('''<br><br><br><center><font color = "#0000ff" size = 7>Daftar Artikel Mengenai Aplikasi Metode Partial Least Squares Structural Equation Modeling (PLS-SEM) di Berbagai Bidang Disiplin Ilmu</font></center>
 
 
@@ -321,7 +316,7 @@ if pilih_topik == ":rainbow[Psychology]":
 
 
     st.write('''<br><br><br><center><font color = "red" size = 7>2020</font></center> ''', unsafe_allow_html = True)
-    st.write('''[1] <font color = "#0000ff">Judul: The effect of self-esteem, attitude towards the body, and eating habit on cognitive reactivity</font><br><font color = "#ff00ff">Jurnal: Psikohumaniora: Jurnal Penelitian Psikologi</font><br><font color = "#f4c430">Tahun Terbit Artikel: 2020</font><br><font color = "#32cd32">Publisher: </font><br><a href = "https://journal.walisongo.ac.id/index.php/Psikohumaniora/search/search" target = "_blank" style = "text-decoration:none">Link Artikel</a>
+    st.write('''[1] <font color = "#0000ff">Judul: The effect of self-esteem, attitude towards the body, and eating habit on cognitive reactivity</font><br><font color = "#ff00ff">Jurnal: Psikohumaniora: Jurnal Penelitian Psikologi</font><br><font color = "#f4c430">Tahun Terbit Artikel: 2020</font><br><font color = "#32cd32">Publisher: </font><br><a href = "https://journal.walisongo.ac.id/index.php/Psikohumaniora/article/view/4561" target = "_blank" style = "text-decoration:none">Link Artikel</a>
 
 
 
@@ -329,7 +324,7 @@ if pilih_topik == ":rainbow[Psychology]":
     
 
     st.markdown(
-    """<a href="https://journal.walisongo.ac.id/index.php/Psikohumaniora/search/search">
+    """<a href="https://journal.walisongo.ac.id/index.php/Psikohumaniora/article/view/4561">
     <img src="https://statkomat.com/aplikasi-plssem/Psychology/3/1.png" width="800"><br>
     </a>""",
     unsafe_allow_html=True)
@@ -388,6 +383,118 @@ if pilih_topik == ":rainbow[Psychology]":
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+if pilih_topik == ":rainbow[Agriculture]":
+
+
+    st.write('''<br><br><br><center><font color = "red" size = 7>2023</font></center> ''', unsafe_allow_html = True)
+    st.write('''[1] <font color = "#0000ff">Judul: Faktor yang Mempengaruhi Penggunaan Smartphone oleh Petani Padi Sawah di Kota Padang Sidimpuan Provinsi Sumatera Utara</font><br><font color = "#ff00ff">Jurnal: Jurnal Agro Ekonomi</font><br><font color = "#f4c430">Tahun Terbit Artikel: 2023</font><br><font color = "#32cd32">Publisher: </font><br><a href = "https://epublikasi.pertanian.go.id/berkala/jae/article/view/3558" target = "_blank" style = "text-decoration:none">Link Artikel</a>
+
+
+
+             ''', unsafe_allow_html = True)
+    
+    st.markdown(
+    """<a href="https://epublikasi.pertanian.go.id/berkala/jae/article/view/3558">
+    <img src="https://statkomat.com/aplikasi-plssem/Agriculture/1/1.png" width="700"><br>
+    <img src="https://statkomat.com/aplikasi-plssem/Agriculture/1/2.png" width="600"><br>
+    <img src="https://statkomat.com/aplikasi-plssem/Agriculture/1/3.png" width="600"><br>
+    </a>""",
+    unsafe_allow_html=True)
+
+
+
+
+
+    st.write('''<br><br><br>[2] <font color = "#0000ff">Judul: THE EFFECTIVENESS OF THE ROLE OF FARMERS' GROUP ON THE PERFORMANCE OF RICE FARMING IN KEMUMU VILLAGE, ARMA JAYA DISTRICT, NORTH BENGKULU REGENCY</font><br><font color = "#ff00ff">Jurnal: Jurnal AGRISEP: Kajian Masalah Sosial Ekonomi Pertanian dan Agribisnis</font><br><font color = "#f4c430">Tahun Terbit Artikel: 2023</font><br><font color = "#32cd32">Publisher: </font><br><a href = "https://ejournal.unib.ac.id/agrisep/article/view/25958" target = "_blank" style = "text-decoration:none">Link Artikel</a>
+
+
+
+             ''', unsafe_allow_html = True)
+    
+    st.markdown(
+    """<a href="https://ejournal.unib.ac.id/agrisep/article/view/25958">
+    <img src="https://statkomat.com/aplikasi-plssem/Agriculture/2/1.png" width="700"><br>
+    <img src="https://statkomat.com/aplikasi-plssem/Agriculture/2/2.png" width="600"><br>
+    <img src="https://statkomat.com/aplikasi-plssem/Agriculture/2/3.png" width="600"><br>
+    </a>""",
+    unsafe_allow_html=True)
 
 
 
@@ -553,6 +660,13 @@ with col12:
     st.markdown("""<center><img src="https://statkomat.com/streamlit-ugi/github.png" width="50"><br><a href = 'https://github.com/gioprana89' target = '_blank' style = 'text-decoration:none'></center><center><font color = 'orange'><b>GITHUB</b></font></center></a>""",unsafe_allow_html=True)
 
 
+
+st.markdown("")
+st.markdown("")
+
+col13, col14, col15, col16, col17, col18 = st.columns([2, 2, 2, 2, 2, 2])
+with col13:
+    st.markdown("""<center><img src="https://statkomat.com/streamlit-ugi/cfa.gif" width="50"><br><a href = 'https://cfa-aplikasi.streamlit.app/' target = '_blank' style = 'text-decoration:none'></center><center><font color = 'orange'><b>CONFIRMATORY FACTOR ANALYSIS (CFA)</b></font></center></a>""",unsafe_allow_html=True)
 
 
 
