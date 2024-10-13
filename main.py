@@ -463,6 +463,38 @@ if pilih_topik == ":rainbow[Psychology]":
 if pilih_topik == ":rainbow[Agriculture]":
 
 
+
+
+
+    st.write('''<br><br><br><center><font color = "red" size = 7>2024</font></center> ''', unsafe_allow_html = True)
+    st.write('''[1] <font color = "#0000ff">Judul: Pengaruh Penyuluhan terhadap Dampak Sosial Ekonomi Petani Penerima Bantuan Sarana Prasarana Pertanian di Kota Palopo</font><br><font color = "#ff00ff">Jurnal: Jurnal Penyuluhan</font><br><font color = "#f4c430">Tahun Terbit Artikel: 2024</font><br><font color = "#32cd32">Publisher: </font><br><a href = "https://journal.ipb.ac.id/index.php/jupe/article/view/47989" target = "_blank" style = "text-decoration:none">Link Artikel</a>
+
+
+
+             ''', unsafe_allow_html = True)
+    
+    st.markdown(
+    """<a href="https://journal.ipb.ac.id/index.php/jupe/article/view/47989">
+    <img src="https://statkomat.com/aplikasi-plssem/Agriculture/8/1.png" width="700"><br>
+    <img src="https://statkomat.com/aplikasi-plssem/Agriculture/8/2.png" width="600"><br>
+    <img src="https://statkomat.com/aplikasi-plssem/Agriculture/8/3.png" width="600"><br>
+    <img src="https://statkomat.com/aplikasi-plssem/Agriculture/8/4.png" width="600"><br>
+    <img src="https://statkomat.com/aplikasi-plssem/Agriculture/8/5.png" width="600"><br>
+    </a>""",
+    unsafe_allow_html=True)
+
+
+
+
+
+
+
+
+
+
+
+
+
     st.write('''<br><br><br><center><font color = "red" size = 7>2023</font></center> ''', unsafe_allow_html = True)
     st.write('''[1] <font color = "#0000ff">Judul: Faktor yang Mempengaruhi Penggunaan Smartphone oleh Petani Padi Sawah di Kota Padang Sidimpuan Provinsi Sumatera Utara</font><br><font color = "#ff00ff">Jurnal: Jurnal Agro Ekonomi</font><br><font color = "#f4c430">Tahun Terbit Artikel: 2023</font><br><font color = "#32cd32">Publisher: </font><br><a href = "https://epublikasi.pertanian.go.id/berkala/jae/article/view/3558" target = "_blank" style = "text-decoration:none">Link Artikel</a>
 
@@ -499,6 +531,101 @@ if pilih_topik == ":rainbow[Agriculture]":
 
 
 
+    st.write('''<br><br><br>[3] <font color = "#0000ff">Judul: THE ROLE OF AGRICULTURAL EXTENSIONERS AND AGRICULTURAL FARMER CHARACTERISTICS ON THE BEHAVIOR OF RICE SEED FARMERS IN BUNGA RAYA DISTRICT, SIAK REGENCY</font><br><font color = "#ff00ff">Jurnal: AGRISOCIONOMICS: Jurnal Sosial Ekonomi dan Kebijakan Pertanian</font><br><font color = "#f4c430">Tahun Terbit Artikel: 2023</font><br><font color = "#32cd32">Publisher: </font><br><a href = "https://ejournal2.undip.ac.id/index.php/agrisocionomics/article/view/17302" target = "_blank" style = "text-decoration:none">Link Artikel</a>
+
+
+
+             ''', unsafe_allow_html = True)
+    
+    st.markdown(
+    """<a href="https://ejournal.unib.ac.id/agrisep/article/view/25958">
+    <img src="https://statkomat.com/aplikasi-plssem/Agriculture/5/1.png" width="700"><br>
+    <img src="https://statkomat.com/aplikasi-plssem/Agriculture/5/2.png" width="600"><br>
+    </a>""",
+    unsafe_allow_html=True)
+
+
+
+
+
+    st.write('''<br><br><br>[4] <font color = "#0000ff">Judul: Analisis Pengaruh Motivasi dan Penyuluhan Petani terhadap Usahatani Porang di Madiun Jawa Timur</font><br><font color = "#ff00ff">Jurnal: Jurnal Penyuluhan</font><br><font color = "#f4c430">Tahun Terbit Artikel: 2023</font><br><font color = "#32cd32">Publisher: </font><br><a href = "https://journal.ipb.ac.id/index.php/jupe/article/view/46744" target = "_blank" style = "text-decoration:none">Link Artikel</a>
+
+
+
+             ''', unsafe_allow_html = True)
+    
+    st.markdown(
+    """<a href="https://journal.ipb.ac.id/index.php/jupe/article/view/46744">
+    <img src="https://statkomat.com/aplikasi-plssem/Agriculture/6/1.png" width="700"><br>
+    <img src="https://statkomat.com/aplikasi-plssem/Agriculture/6/2.png" width="600"><br>
+    <img src="https://statkomat.com/aplikasi-plssem/Agriculture/6/3.png" width="600"><br>
+    <img src="https://statkomat.com/aplikasi-plssem/Agriculture/6/4.png" width="600"><br>
+    </a>""",
+    unsafe_allow_html=True)
+
+
+
+
+    st.write('''<br><br><br>[5] <font color = "#0000ff">Judul: Peningkatan Kinerja Digital Penyuluh Pertanian Dinas Pertanian dan Pangan Kabupaten Banyuwangi Jawa Timur</font><br><font color = "#ff00ff">Jurnal: Jurnal Penyuluhan</font><br><font color = "#f4c430">Tahun Terbit Artikel: 2023</font><br><font color = "#32cd32">Publisher: </font><br><a href = "https://journal.ipb.ac.id/index.php/jupe/article/view/46275" target = "_blank" style = "text-decoration:none">Link Artikel</a>
+
+
+
+             ''', unsafe_allow_html = True)
+    
+    st.markdown(
+    """<a href="https://journal.ipb.ac.id/index.php/jupe/article/view/46275">
+    <img src="https://statkomat.com/aplikasi-plssem/Agriculture/7/1.png" width="700"><br>
+    <img src="https://statkomat.com/aplikasi-plssem/Agriculture/7/2.png" width="600"><br>
+    <img src="https://statkomat.com/aplikasi-plssem/Agriculture/7/3.png" width="600"><br>
+    <img src="https://statkomat.com/aplikasi-plssem/Agriculture/7/4.png" width="600"><br>
+    </a>""",
+    unsafe_allow_html=True)
+
+
+
+
+
+
+
+
+
+    st.write('''<br><br><br><center><font color = "red" size = 7>2022</font></center> ''', unsafe_allow_html = True)
+    st.write('''[1] <font color = "#0000ff">Judul: Pengaruh Motivasi, Disiplin Kerja, dan Kepuasan Kerja terhadap Kinerja Pegawai Direktorat Perbenihan Tanaman Pangan, Kementerian Pertanian Jakarta</font><br><font color = "#ff00ff">Jurnal: Owner: Riset & Jurnal Akuntansi</font><br><font color = "#f4c430">Tahun Terbit Artikel: 2022</font><br><font color = "#32cd32">Publisher: </font><br><a href = "https://www.researchgate.net/publication/359987013_Pengaruh_Motivasi_Disiplin_Kerja_dan_Kepuasan_Kerja_terhadap_Kinerja_Pegawai_Direktorat_Perbenihan_Tanaman_Pangan_Kementerian_Pertanian_Jakarta#fullTextFileContent" target = "_blank" style = "text-decoration:none">Link Artikel</a>
+
+
+
+             ''', unsafe_allow_html = True)
+    
+    st.markdown(
+    """<a href="https://epublikasi.pertanian.go.id/berkala/jae/article/view/3558">
+    <img src="https://statkomat.com/aplikasi-plssem/Agriculture/1/1.png" width="700"><br>
+    <img src="https://statkomat.com/aplikasi-plssem/Agriculture/1/2.png" width="600"><br>
+    <img src="https://statkomat.com/aplikasi-plssem/Agriculture/1/3.png" width="600"><br>
+    </a>""",
+    unsafe_allow_html=True)
+
+
+
+
+
+
+
+
+
+    st.write('''<br><br><br><center><font color = "red" size = 7>2020</font></center> ''', unsafe_allow_html = True)
+    st.write('''[1] <font color = "#0000ff">Judul: KARAKTERISTIK PENYULUH DALAM PEMANFAATAN MEDIA SOSIAL SEBAGAI MEDIA INFORMASI PERTANIAN</font><br><font color = "#ff00ff">Jurnal: AGRISOCIONOMICS: Jurnal Sosial Ekonomi dan Kebijakan Pertanian</font><br><font color = "#f4c430">Tahun Terbit Artikel: 2020</font><br><font color = "#32cd32">Publisher: </font><br><a href = "https://ejournal2.undip.ac.id/index.php/agrisocionomics/article/view/6113" target = "_blank" style = "text-decoration:none">Link Artikel</a>
+
+
+
+             ''', unsafe_allow_html = True)
+    
+    st.markdown(
+    """<a href="https://epublikasi.pertanian.go.id/berkala/jae/article/view/3558">
+    <img src="https://statkomat.com/aplikasi-plssem/Agriculture/4/1.png" width="700"><br>
+    <img src="https://statkomat.com/aplikasi-plssem/Agriculture/4/2.png" width="600"><br>
+    <img src="https://statkomat.com/aplikasi-plssem/Agriculture/4/3.png" width="600"><br>
+    </a>""",
+    unsafe_allow_html=True)
 
 
 
@@ -514,6 +641,26 @@ if pilih_topik == ":rainbow[Agriculture]":
 
 
 
+
+
+
+
+
+
+
+    st.write('''<br><br><br><center><font color = "red" size = 7>2019</font></center> ''', unsafe_allow_html = True)
+    st.write('''[1] <font color = "#0000ff">Judul: PENGARUH DISIPLIN KERJA, KEPUASAN KERJA DAN LOYALITAS KARYAWAN TERHADAP KINERJA KARYAWAN AGROWISATA BAGUS AGRO PELAGA</font><br><font color = "#ff00ff">Jurnal: AGRISOCIONOMICS: Jurnal Sosial Ekonomi dan Kebijakan Pertanian</font><br><font color = "#f4c430">Tahun Terbit Artikel: 2019</font><br><font color = "#32cd32">Publisher: </font><br><a href = "https://ejournal2.undip.ac.id/index.php/agrisocionomics/article/view/4801" target = "_blank" style = "text-decoration:none">Link Artikel</a>
+
+
+
+             ''', unsafe_allow_html = True)
+    
+    st.markdown(
+    """<a href="https://epublikasi.pertanian.go.id/berkala/jae/article/view/3558">
+    <img src="https://statkomat.com/aplikasi-plssem/Agriculture/3/1.png" width="700"><br>
+    <img src="https://statkomat.com/aplikasi-plssem/Agriculture/3/2.png" width="600"><br>
+    </a>""",
+    unsafe_allow_html=True)
 
 
 
