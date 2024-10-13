@@ -138,6 +138,14 @@ if pilih_topik == ":rainbow[Accounting, Finance, Econometrics, Business (Financi
 
 
 
+
+
+
+
+
+
+
+
 if pilih_topik == ":rainbow[Business, Management, Education, Sociology and Political Science]":
 
     st.write('''<br><br><br><center><font color = "red" size = 7>2020</font></center> ''', unsafe_allow_html = True)
